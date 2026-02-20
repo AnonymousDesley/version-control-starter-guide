@@ -6,13 +6,17 @@
 3. Open Git Bash from Start Menu
 
 ## Verify Installation
-```git --version
+```
+git --version
 
+```
 ## macOS
 ```bash
 brew install git
 ```
 
 ## Verify Installation
-```git --version
+```
+git --version
 
+```
