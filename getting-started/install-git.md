@@ -11,6 +11,7 @@
 ## macOS
 ```bash
 brew install git
+```
 
 ## Verify Installation
 ```git --version
