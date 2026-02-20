@@ -5,6 +5,9 @@
 2. Run installer with default settings
 3. Open Git Bash from Start Menu
 
+## Verify Installation
+```git --version
+
 ## macOS
 ```bash
 brew install git
