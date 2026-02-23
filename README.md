@@ -2,7 +2,7 @@
 
 Welcome to your beginner-friendly guide to version control with Git and GitHub!
 
-This repo is designed for **absolute beginners** who want to learn Git step by step, with clear explanations, visual aids, and practical exercises.
+This repo is designed for **absolute beginners** who want to learn Git step by step, with clear explanations, visual aids, and some practical exercises.
 
 ## 🌱 What You'll Learn
 - Why version control matters
