@@ -10,7 +10,7 @@ This repo is designed for **absolute beginners** who want to learn Git step by s
 - Core concepts like commits, branches, and merges
 - Hands-on workflows with GitHub
 - Visual cheat sheets and diagrams
-- Common mistakes and how to fix them
+- Common mistakes and how to fix all of them
 
 ## 📚 Structure
 - `getting-started/` — Setup and mindset
