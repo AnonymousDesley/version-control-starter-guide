@@ -7,5 +7,9 @@ How to create a new branch
 git checkout -b new-branch-name
 
 
-i created a branch named tantoh
 
+
+
+
+teh jushua created something
+i created a branch named tantoh
